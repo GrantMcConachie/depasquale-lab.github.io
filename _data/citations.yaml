@@ -12,3 +12,14 @@
   image: https://media.springernature.com/full/springer-static/image/art%3A10.1038%2Fnn.4241/MediaObjects/41593_2016_Article_BFnn4241_Fig1_HTML.jpg?as=webp
   tags:
   - RNNs
+- id: doi:10.1371/journal.pone.0191527
+  title: 'full-FORCE: A target-based method for training recurrent networks'
+  authors:
+  - Brian DePasquale
+  - Christopher J. Cueva
+  - Kanaka Rajan
+  - G. Sean Escola
+  - L. F. Abbott
+  publisher: PLOS ONE
+  date: '2018-02-07'
+  link: https://doi.org/gcxrf9
