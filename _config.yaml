@@ -1,7 +1,7 @@
 ### basic settings
 
 # site properties and page defaults
-title: DePaq-Lab
+title: DePaq Lab
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
 logo: images/pinata.jpeg
 header: images/background.jpg
@@ -13,9 +13,9 @@ links:
   email: bddepasqh@bu.edu
   google-scholar: Brian DePasquale
   github: depaq-lab
-  twitter: YourLabHandle
-  instagram: YourLabHandle
-  youtube: YourLabChannel
+  #twitter: YourLabHandle
+  #instagram: YourLabHandle
+  #youtube: YourLabChannel
 
 # automatic citations
 auto-cite:
