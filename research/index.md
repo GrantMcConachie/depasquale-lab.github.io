@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-Yo yo yo. 
+I conduct research in theoretical neuroscience and machine learning. My research uses mathematical models to characterize and explain how populations of neurons perform computations to produce behavior. 
 
 {% include section.html %}
 
