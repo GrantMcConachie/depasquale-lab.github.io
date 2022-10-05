@@ -4,7 +4,7 @@ tags:
   - dynamical systems
   - medicine
   - big data
-author: Brian DePasquale
+author: anne-chovie
 member: anne-chovie
 ---
 
