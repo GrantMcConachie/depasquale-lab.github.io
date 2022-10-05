@@ -1,4 +1,4 @@
-depaq-lab.github.io
+[DePaq Lab](https://depaq-lab.github.io)
 
 <h1 align="center">Lab Website Template</h1>
 <p align="center">
