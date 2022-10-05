@@ -1,5 +1,5 @@
 ---
-title: Awesome things are happening
+title: Awesome things ar happening
 tags:
   - dynamical systems
   - medicine
