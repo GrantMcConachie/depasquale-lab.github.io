@@ -19,6 +19,8 @@ I will begin advising trainees Janurary 2023. If you are interested in conductin
 %}
 {:.center}
 
+{% include section.html %}
+
 ## Funding
 
 Our work is made possible by funding from several organizations.
