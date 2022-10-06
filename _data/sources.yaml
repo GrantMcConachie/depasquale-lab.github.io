@@ -7,7 +7,7 @@
   tags:
     - RNNs
 - id: doi:10.1371/journal.pone.0191527
-  image: https://github.com/depaq-lab/depaq-lab.github.io/blob/main/images/pone.0191527.g001.png?as=webp
+  image: images/pone.0191527.g001.png
   date: 2016-2-23
   extra-links:
     - type: preprint
