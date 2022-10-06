@@ -1,5 +1,5 @@
 ---
-title: Blog
+title: News & Blog
 nav:
   order: 4
   tooltip: Musings and miscellany
@@ -15,7 +15,7 @@ nav:
 
 {% include section.html %}
 
-## News
+## Social Media News
 
 <!-- Twitter embeds from https://publish.twitter.com/ -->
 
