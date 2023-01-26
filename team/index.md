@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Group
 
-I will begin advising trainees Janurary 2023. If you are interested in conducting research within the group, please reach out to Brian by email.  
+I will begin advising trainees in Janurary 2023. If you are interested in conducting research within the group, please reach out to Brian by email.  
 
 {% include section.html %}
 
