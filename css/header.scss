@@ -13,7 +13,7 @@ header {
   padding: 30px;
   color: $white;
   background: $white;
-  box-shadow: $shadow;
+  box-shadow: none;
 
   & * {
     font-family: $sans;
