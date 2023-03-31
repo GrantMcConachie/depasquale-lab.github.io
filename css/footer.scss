@@ -8,9 +8,9 @@
 footer {
   padding: 40px;
   color: $white;
-  background: $gray-800;
+  background: $white;
   text-align: center;
-  box-shadow: $shadow;
+  box-shadow: none;
 
   & * {
     font-family: $sans;
@@ -23,7 +23,7 @@ footer {
     @include trim-v-margins;
 
     &:hover .link {
-      opacity: 0.25;
+      opacity: 0.05;
     }
 
     .link:hover {
