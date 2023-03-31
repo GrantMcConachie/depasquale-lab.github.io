@@ -4,8 +4,8 @@
 title: DePaq Lab
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
 logo: images/pinata.jpeg
-header: images/background.jpg
-footer: images/background.jpg
+#header: images/background.jpg
+#footer: images/background.jpg
 baseurl: ""
 
 # site social media and other links
