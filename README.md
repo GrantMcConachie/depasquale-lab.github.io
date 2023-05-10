@@ -1,4 +1,4 @@
-[DePaq Lab](https://depaq-lab.github.io)
+[DePasquale Lab](https://depasquale-lab.github.io)
 
 <h1 align="center">Lab Website Template</h1>
 <p align="center">
