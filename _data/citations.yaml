@@ -32,3 +32,23 @@
     text: Code
   tags:
   - RNNs
+- id: doi:10.1016/j.neuron.2022.12.007
+  title: The centrality of population-level factors to network computation is demonstrated
+    by a versatile approach for training spiking networks
+  authors:
+  - Brian DePasquale
+  - David Sussillo
+  - L.F. Abbott
+  - Mark M. Churchland
+  publisher: Neuron
+  date: '2016-02-23'
+  link: https://doi.org/gr77ff
+  image: https://ars.els-cdn.com/content/image/1-s2.0-S0896627322010807-gr1_lrg.jpg
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/abs/1710.03070
+  - type: source
+    link: https://github.com/briandepasquale/full-FORCE-demos
+    text: Code
+  tags:
+  - RNNs
