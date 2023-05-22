@@ -21,7 +21,7 @@ I will begin advising trainees in Janurary 2023. If you are interested in conduc
 
 {% include section.html %}
 
-## Funding
+<!--- ## Funding
 
 Our work is made possible by funding from several organizations.
 {:.center}
@@ -35,3 +35,4 @@ Our work is made possible by funding from several organizations.
   tooltip1="Cool Foundation"
 
 %}
+-->
