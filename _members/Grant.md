@@ -8,7 +8,7 @@ aliases:
   - G Mcconachie
 links:
   email: gdmac@bu.edu
-  website: https://grantmcconachie.github.io/
+  web: https://grantmcconachie.github.io/
 ---
 
 Grant is a PhD student in BME.
