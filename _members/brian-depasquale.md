@@ -1,7 +1,6 @@
 ---
 name: Brian DePasquale
 image: images/pinata.jpeg
-description: Assistant Professor
 role: pi
 aliases:
   - B. DePasquale
