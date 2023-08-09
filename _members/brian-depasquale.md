@@ -12,7 +12,7 @@ links:
   orcid: 0000-0002-3830-3184
   email: bddepasq@bu.edu
   twitter: briandepasquale
-  web-page: https://www.princeton.edu/~briandd/
+  home-page: https://www.princeton.edu/~briandd/
   google-scholar: https://scholar.google.com/citations?user=dkRSv1AAAAAJ&hl=en
   github: https://github.com/briandepasquale
 ---
