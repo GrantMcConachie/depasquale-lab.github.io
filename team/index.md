@@ -15,10 +15,16 @@ I will begin advising trainees in Janurary 2023. If you are interested in conduc
   include list.html
   data="members"
   component="portrait"
+  filters="role: pi"
 %}
-{:.center}
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: phd"
+%}
 
-{% include section.html %}
+
 
 <!--- ## Funding
 
