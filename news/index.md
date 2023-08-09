@@ -1,5 +1,5 @@
 ---
-title: News
+title: What's going on
 nav:
   order: 3
   tooltip: News

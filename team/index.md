@@ -1,8 +1,8 @@
 ---
-title: Group
+title: Who we are
 nav:
   order: 2
-  tooltip: Group
+  tooltip: People
 ---
 
 # <i class="fas fa-users"></i>Group
