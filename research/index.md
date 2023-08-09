@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-For a full list of publications, see [Google Scholar](https://scholar.google.com/citations?user=dkRSv1AAAAAJ&hl=en).
+For a full list of publications, see [Brian's Google Scholar](https://scholar.google.com/citations?user=dkRSv1AAAAAJ&hl=en).
 {:.center}
 
 {% capture text %}
