@@ -3,6 +3,7 @@ name: Brian DePasquale
 image: images/pinata.jpeg
 role: pi
 description: P.I.
+Assistant Professor, Biomedical Engineering
 aliases:
   - B. DePasquale
   - B. D. DePasquale
