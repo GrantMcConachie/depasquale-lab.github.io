@@ -25,26 +25,26 @@ I conducted my postdoctoral research with [Carlos Brody](http://brodylab.org/) a
 
 ## Positions and Employment 
 
-- 2023-present			Assistant Professor, Biomedical Engineering, Boston University, MA, USA
-- 2023-present			Faculty Member, Center for Systems Neuroscience, Boston University, Boston, MA
-- 2023-present			Faculty Member, Neurophotonics Center, Boston University, Boston, MA
-- 2016-2022				Postdoctoral Fellow, Princeton Neuroscience Institute, Princeton, NJ
-- 2009-2016				PhD student, Columbia University, New York, NY
-- 2005-2009				Research Assistant, Brain and Cognitive Sciences, MIT, Cambridge, MA
+- 2023-present&emsp;Assistant Professor, Biomedical Engineering, Boston University, MA, USA
+- 2023-present&emsp;Faculty Member, Center for Systems Neuroscience, Boston University, Boston, MA
+- 2023-present&emsp;Faculty Member, Neurophotonics Center, Boston University, Boston, MA
+- 2016-2022&emsp;Postdoctoral Fellow, Princeton Neuroscience Institute, Princeton, NJ
+- 2009-2016&emsp;PhD student, Columbia University, New York, NY
+- 2005-2009&emsp;Research Assistant, Brain and Cognitive Sciences, MIT, Cambridge, MA
 
 ## Professional Organizations / Service 
 
-- 2012-present 			Journal reviewer: Nature Machine Intelligence, NeurIPS, eLife, Neural Computation, PNAS, PLoS Computational Biology, Science Advances, ICLR, Neurons, Behavior, Data analysis and Theory, COSYNE (Conference), Computational Cognitive Neuroscience (Conference)
-- 2021, 2022			Teaching assistant, COSYNE tutorial in computational neuroscience
-- 2019-2020				Seminar series committee, Princeton Neuroscience Institute
-- 2017-2022				Science writer, Simons Foundation, Collaboration on the Global Brain 
-- 2016 					COSYNE Workshop Organizer, Recurrent Spiking Neural Networks—Dynamics, Learning, Computation
+- 2012-present&emsp;Journal reviewer: Nature Machine Intelligence, NeurIPS, eLife, Neural Computation, PNAS, PLoS Computational Biology, Science Advances, ICLR, Neurons, Behavior, Data analysis and Theory, COSYNE (Conference), Computational Cognitive Neuroscience (Conference)
+- 2021, 2022&emsp;Teaching assistant, COSYNE tutorial in computational neuroscience
+- 2019-2020&emsp;Seminar series committee, Princeton Neuroscience Institute
+- 2017-2022&emsp;Science writer, Simons Foundation, Collaboration on the Global Brain 
+- 2016&emsp;COSYNE Workshop Organizer, Recurrent Spiking Neural Networks—Dynamics, Learning, Computation
 
 ## Honors
 
-- 2010					National Science Foundation Graduate Research Fellowship
-- 2005					Victor F. Hess Award (top Fordham U. graduating physics student)
-- 2004					National Science Foundation REU summer student (UCSD, physics)
+- 2010&emsp;National Science Foundation Graduate Research Fellowship
+- 2005&emsp;Victor F. Hess Award (top Fordham U. graduating physics student)
+- 2004&emsp;National Science Foundation REU summer student (UCSD, physics)
 
 ## Science Writing
 
