@@ -19,9 +19,9 @@ links:
   phone: 617-353-2816
 ---
 
-Assistant Professor, Biomedical Engineering
-Boston University
-(617) 353-2816
+Assistant Professor, Biomedical Engineering <br />
+Boston University <br />
+(617) 353-2816 <br />
 **Office: 413, 44 Cummington Mall, Boston, MA, 02215**
 
 I conduct research in theoretical neuroscience and machine learning. My research uses mathematical models to characterize and explain how populations of neurons perform computations to produce behavior. 
