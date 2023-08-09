@@ -13,6 +13,7 @@ links:
   email: bddepasq@bu.edu
   twitter: briandepasquale
   home-page: https://www.princeton.edu/~briandd/
+  google-scholar: https://scholar.google.com/citations?user=dkRSv1AAAAAJ&hl=en
 ---
 
 I conduct research in theoretical neuroscience and machine learning. My research uses mathematical models to characterize and explain how populations of neurons perform computations to produce behavior. As of Janurary 2023, I am an [assistant professor](https://www.bu.edu/eng/profile/brian-depasquale-ph-d/) in the Department of Biomedical Engineering at Boston University where I run the Artificial and Biological Intelligence Laboratory.
