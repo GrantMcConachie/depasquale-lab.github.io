@@ -1,13 +1,15 @@
 ---
 title: Group
 nav:
-  order: 3
-  tooltip: About our group
+  order: 2
+  tooltip: Group
 ---
 
 # <i class="fas fa-users"></i>Group
 
-I will begin advising trainees in Janurary 2023. If you are interested in conducting research within the group, please reach out to Brian by email.  
+If you are interested in conducting research within the group as a PhD student, please apply to the BU [BME PhD program](https://www.bu.edu/neuro/academics/graduate/) or the BU [graduate program in neuroscience](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-biomedical-engineering/). 
+
+If you are interested in a postdoc, please email Brian.  
 
 {% include section.html %}
 
@@ -23,8 +25,6 @@ I will begin advising trainees in Janurary 2023. If you are interested in conduc
   component="portrait"
   filters="role: phd"
 %}
-
-
 
 <!--- ## Funding
 
