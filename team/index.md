@@ -7,9 +7,9 @@ nav:
 
 # <i class="fas fa-users"></i>Group
 
-If you are interested in conducting research within the group as a PhD student, please apply to the BU [BME PhD program](https://www.bu.edu/neuro/academics/graduate/) or the BU [graduate program in neuroscience](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-biomedical-engineering/). 
+If you are interested in conducting research within the group as a PhD student, please apply to the BU [BME PhD program](https://www.bu.edu/eng/academics/explore-degree-programs/phd-in-biomedical-engineering/) or the BU [graduate program in neuroscience](  https://www.bu.edu/neuro/academics/graduate/). 
 
-If you are interested in a postdoc, please email Brian.  
+If you are interested in a postdoc, please [email Brian](mailto:bddepasq@bu.edu).  
 
 {% include section.html %}
 
