@@ -24,10 +24,16 @@ nav:
 
 ## Collaborators
 
+{% capture text %}
+<a href="https://www.youngerlaboratory.org/">Mosquito olfaction</a>
+{:.center}
+{% endcapture %}
+
 {%
   include feature.html
   image="https://images.squarespace-cdn.com/content/v1/614de94a4f15316f922c40fa/1632515659512-BOFFGN0HMEG2YYZC57C6/i-bRCrWX6-X3.jpg?format=2500w"
-  headline="<a href="https://www.youngerlaboratory.org/">Meg Younger</a>, BU, Mosquito olfaction"
+  headline="Meg Younger, BU"
+  text=text
 %}
 
 - [Mike Economo](https://economolab.org/), BU
