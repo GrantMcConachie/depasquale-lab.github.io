@@ -25,6 +25,8 @@ Boston University <br />
 (617) 353-2816 <br />
 Office: 413, 44 Cummington Mall, Boston, MA, 02215
 
+{% include section.html %}
+
 ## Bio 
 I conduct research in theoretical neuroscience and machine learning. My research uses mathematical models to characterize and explain how populations of neurons perform computations to produce behavior. 
 
@@ -35,7 +37,7 @@ I am an [assistant professor](https://www.bu.edu/eng/profile/brian-depasquale-ph
 - 2023-present&emsp;Assistant Professor, Biomedical Engineering, Boston University, MA, USA
 - 2023-present&emsp;Faculty Member, Center for Systems Neuroscience, Boston University, Boston, MA
 - 2023-present&emsp;Faculty Member, Neurophotonics Center, Boston University, Boston, MA
-- 2016-2022&emsp;   Postdoctoral Fellow, [Princeton Neuroscience Institute](https://pni.princeton.edu/), Princeton, NJ
+- 2016-2022&emsp;&nbsp;&nbsp;&nbsp;Postdoctoral Fellow, [Princeton Neuroscience Institute](https://pni.princeton.edu/), Princeton, NJ
 - 2009-2016&emsp;   PhD student, [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) Columbia University, New York, NY
 - 2005-2009&emsp;   Research Assistant, Brain and Cognitive Sciences, MIT, Cambridge, MA
 
@@ -52,6 +54,8 @@ I am an [assistant professor](https://www.bu.edu/eng/profile/brian-depasquale-ph
 - 2010&emsp;National Science Foundation Graduate Research Fellowship
 - 2005&emsp;Victor F. Hess Award (top Fordham U. graduating physics student)
 - 2004&emsp;National Science Foundation REU summer student (UCSD, physics)
+
+{% include section.html %}
 
 ## Science Writing
 

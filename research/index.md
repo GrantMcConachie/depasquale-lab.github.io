@@ -10,6 +10,8 @@ nav:
 For a full list of publications, see [Brian's Google Scholar](https://scholar.google.com/citations?user=dkRSv1AAAAAJ&hl=en).
 {:.center}
 
+{% include section.html %}
+
 {% capture text %}
  My PhD research focused on the development of novel methods for training artificial neural networks bound by the constraints of real neural systems. For example, although real neurons communicate with spikes, reproducing this feature in artificial models has been a challenge. I developed a general method for training recurrent neural networks (RNNs) of spiking model neurons and used it to construct spiking networks capable of performing tasks previously beyond our reach. My method established a key conceptual link between spiking networks and more commonly used ‘rate’ networks that illustrated how spiking networks can be constructed to perform virtually any task modeled with rate networks. Additionally, I used my approach to understand the mechanistic origin of latent factors (e.g., principal components), a burgeoning statistical framework for describing neural population activity. I constructed spiking RNNs that produced latent factors derived from neural recordings in the primary motor cortex, and illustrated how the factors are constructed within the network’s synaptic connectivity. A second challenge for real and artificial neural circuits is performing tasks with long temporal dependencies. I invented a novel network training method called full-FORCE that can build networks able to perform tasks over behaviorally relevant timescales. full-FORCE has largely supplanted its widely-used predecessor, ‘FORCE’, as the premier, non-gradient-based method for training RNNs, and multiple groups have used it to address their own unique research questions.
 
@@ -23,6 +25,8 @@ For a full list of publications, see [Brian's Google Scholar](https://scholar.go
   headline="Methods for constructing biophysically detailed and data-constrained artificial neural networks"
   text=text
 %}
+
+{% include section.html %}
 
 {% capture text %}
 As a postdoctoral researcher, I shifted focus to statistical models of neural dynamics underlying decision-making. I developed comprehensive statistical models for characterizing the unobserved (‘latent’) temporal processes reflected in neural activity that underlie decisions. These models reflect a substantive improvement over prior approaches; whereas prior methods tended to either analyze neurons individually or the behavioral output of an animal in isolation, my method jointly modeled behavior and multi-neuronal responses simultaneously, thereby providing a comprehensive and statistically rigorous model of decision-making. I applied these methods to characterize the unique accumulation ‘strategy’ employed by multiple cortical and subcortical brain regions in rats performing pulsed-based evidence accumulation tasks, and found that different brain regions contributed to the overall accumulation process that drove behavior in radically different ways. The generality of my method allowed me to apply it to behavioral data collected from non-human primates and humans performing a similar task, and to extend the framework to consider how the history of animal choices in a trial-based decision-making task impacts the underlying temporal processes that determine future decisions. 
