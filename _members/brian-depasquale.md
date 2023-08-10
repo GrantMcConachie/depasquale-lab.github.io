@@ -17,7 +17,6 @@ links:
   github: briandepasquale
 ---
 
-## Contact
 Assistant Professor, Biomedical Engineering <br />
 Boston University <br />
 (617) 353-2816 <br />
@@ -25,10 +24,11 @@ Room 413, 44 Cummington Mall, Boston, MA, 02215
 
 {% include section.html %}
 
-## Bio 
 I conduct research in theoretical neuroscience and machine learning. My research uses mathematical models to characterize and explain how populations of neurons perform computations to produce behavior. 
 
 I am an [assistant professor](https://www.bu.edu/eng/profile/brian-depasquale-ph-d/) in the Department of Biomedical Engineering at Boston University where I run the Artificial and Biological Intelligence Laboratory. I did my postdoctoral research with [Carlos Brody](http://brodylab.org/) and [Jonathan Pillow](http://pillowlab.princeton.edu/jpillow/) on latent variable models of evidence accumulation. During my Ph.D., I worked with [Larry Abbott](http://www.columbia.edu/cu/neurotheory/Larry/) developing methods for training recurrent neural networks, and with Mark Churchland connecting these models conceptually to statistical models of low-dimensional dynamics applied to data. Before that I studied the basal ganglia in the laboratory of Ann Graybiel at MIT and completed by BS in physics at Fordham University. 
+
+{% include section.html %}
 
 ## Positions and Employment 
 
@@ -57,10 +57,10 @@ I am an [assistant professor](https://www.bu.edu/eng/profile/brian-depasquale-ph
 
 ## Science Writing
 
-In addition to doing science, I sometimes write about other people’s science. Below are some examples I have contributed to the Simon's Collaboration on the Global Brain. 
+I sometimes write about other people’s science. Below are some examples I have contributed to the Simon's Collaboration on the Global Brain. 
 
 - [A New Era for the Neuroscience of Social Behavior](https://www.simonsfoundation.org/2022/12/15/a-new-era-for-the-neuroscience-of-social-behavior/) (news and commentary on Willmore et al Nature 2022, Pereira et al Nature Methods 2022, & Nair et al BioRxiv 2022)
-- [Searching for Shapes in Neural Activity](https://www.simonsfoundation.org/2022/04/28/searching-for-shapes-in-neural-activity/)(news and commentary on Gardner et al Nature 2022 & Nieh, Schottdorf et al Nature 2021)
+- [Searching for Shapes in Neural Activity](https://www.simonsfoundation.org/2022/04/28/searching-for-shapes-in-neural-activity/) (news and commentary on Gardner et al Nature 2022 & Nieh, Schottdorf et al Nature 2021)
 - [Hippocampal Replay: Reflection on the Past or Planning for the Future](https://www.simonsfoundation.org/2021/11/30/hippocampal-replay-reflection-on-the-past-or-planning-for-the-future/) (news and commentary on Gillespie et al Neuron 2021)
 - [Scoring the Brain: How Benchmark Datasets and Other Tools are Solving Key Challenges in Neuroscience](https://www.simonsfoundation.org/2021/08/25/scoring-the-brain-how-benchmark-datasets-and-other-tools-are-solving-key-challenges-in-neuroscience/)
 - [Geometrical Thinking Offers a Window Into Computation](https://www.simonsfoundation.org/2021/04/07/geometrical-thinking-offers-a-window-into-computation/) (news and commentary on Bernardi, Benna et al Cell 2020 & Russo et al Neuron 2020)
