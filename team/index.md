@@ -24,6 +24,12 @@ nav:
 
 ## Collaborators
 
+{%
+  include feature.html
+  image="https://images.squarespace-cdn.com/content/v1/614de94a4f15316f922c40fa/1632515659512-BOFFGN0HMEG2YYZC57C6/i-bRCrWX6-X3.jpg?format=2500w"
+  headline="Meg Younger"
+%}
+
 - [Meg Younger](https://www.youngerlaboratory.org/), BU
 - [Mike Economo](https://economolab.org/), BU
 - [Mark Howe](https://www.howe-lab.org/), BU
