@@ -19,11 +19,13 @@ links:
   phone: 617-353-2816
 ---
 
+## Contact
 Assistant Professor, Biomedical Engineering <br />
 Boston University <br />
 (617) 353-2816 <br />
-**Office: 413, 44 Cummington Mall, Boston, MA, 02215**
+Office: 413, 44 Cummington Mall, Boston, MA, 02215
 
+## Bio 
 I conduct research in theoretical neuroscience and machine learning. My research uses mathematical models to characterize and explain how populations of neurons perform computations to produce behavior. 
 
 I am an [assistant professor](https://www.bu.edu/eng/profile/brian-depasquale-ph-d/) in the Department of Biomedical Engineering at Boston University where I run the Artificial and Biological Intelligence Laboratory. I did my postdoctoral research with [Carlos Brody](http://brodylab.org/) and [Jonathan Pillow](http://pillowlab.princeton.edu/jpillow/) on latent variable models of evidence accumulation. During my Ph.D., I worked with [Larry Abbott](http://www.columbia.edu/cu/neurotheory/Larry/) developing methods for training recurrent neural networks, and with Mark Churchland connecting these models conceptually to statistical models of low-dimensional dynamics applied to data. Before that I studied the basal ganglia in the laboratory of Ann Graybiel at MIT and completed by BS in physics at Fordham University. 
@@ -33,17 +35,17 @@ I am an [assistant professor](https://www.bu.edu/eng/profile/brian-depasquale-ph
 - 2023-present&emsp;Assistant Professor, Biomedical Engineering, Boston University, MA, USA
 - 2023-present&emsp;Faculty Member, Center for Systems Neuroscience, Boston University, Boston, MA
 - 2023-present&emsp;Faculty Member, Neurophotonics Center, Boston University, Boston, MA
-- 2016-2022&emsp;Postdoctoral Fellow, [Princeton Neuroscience Institute](https://pni.princeton.edu/), Princeton, NJ
-- 2009-2016&emsp;PhD student, [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) Columbia University, New York, NY
-- 2005-2009&emsp;Research Assistant, Brain and Cognitive Sciences, MIT, Cambridge, MA
+- 2016-2022&emsp;   Postdoctoral Fellow, [Princeton Neuroscience Institute](https://pni.princeton.edu/), Princeton, NJ
+- 2009-2016&emsp;   PhD student, [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) Columbia University, New York, NY
+- 2005-2009&emsp;   Research Assistant, Brain and Cognitive Sciences, MIT, Cambridge, MA
 
 ## Professional Organizations / Service 
 
 - 2012-present&emsp;Journal reviewer: Nature Machine Intelligence, NeurIPS, eLife, Neural Computation, PNAS, PLoS Computational Biology, Science Advances, ICLR, Neurons, Behavior, Data analysis and Theory, COSYNE (Conference), Computational Cognitive Neuroscience (Conference)
-- 2021, 2022&emsp;Teaching assistant, COSYNE tutorial in computational neuroscience
-- 2019-2020&emsp;Seminar series committee, Princeton Neuroscience Institute
-- 2017-2022&emsp;Science writer, Simons Foundation, Collaboration on the Global Brain 
-- 2016&emsp;COSYNE Workshop Organizer, Recurrent Spiking Neural Networks—Dynamics, Learning, Computation
+- 2021, 2022&emsp;  Teaching assistant, COSYNE tutorial in computational neuroscience
+- 2019-2020&emsp;   Seminar series committee, Princeton Neuroscience Institute
+- 2017-2022&emsp;   Science writer, Simons Foundation, Collaboration on the Global Brain 
+- 2016&emsp;        COSYNE Workshop Organizer, Recurrent Spiking Neural Networks—Dynamics, Learning, Computation
 
 ## Honors
 
