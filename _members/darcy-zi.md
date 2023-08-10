@@ -1,6 +1,6 @@
 ---
 name: Yihan (Darcy) Zi
-image: images/darcy.jpeg
+image: images/darcy.jpg
 role: phd
 description: Graduate Program in Neuroscience (GPN) PhD student
 aliases:
