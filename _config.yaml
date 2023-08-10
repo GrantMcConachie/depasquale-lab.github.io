@@ -5,7 +5,7 @@ title: DePasquale Lab
 description: An easy-to-use, flexible website template for labs, with automatic citations, GitHub tag imports, pre-built components, and more.
 logo: images/pone.0191527.g001.png
 #header: images/background.jpg
-#footer: images/background.jpg
+footer: images/banner.jpg
 baseurl: ""
 
 # site social media and other links
