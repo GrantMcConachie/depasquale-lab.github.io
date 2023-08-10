@@ -33,6 +33,19 @@ I am an [assistant professor](https://www.bu.edu/eng/profile/brian-depasquale-ph
 
 ## Positions and Employment 
 
+<style>
+table {
+    border-collapse: collapse;
+}
+table, th, td {
+   border: 1px solid black;
+}
+blockquote {
+    border-left: solid blue;
+    padding-left: 10px;
+}
+</style>
+
 | -------- | ------- |
 | 2023-present| Assistant Professor, Biomedical Engineering, Boston University, MA, USA|
 | 2023-present| Faculty Member, Center for Systems Neuroscience, Boston University, Boston, MA|
