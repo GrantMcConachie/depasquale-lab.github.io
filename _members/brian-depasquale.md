@@ -15,15 +15,14 @@ links:
   home-page: https://www.princeton.edu/~briandd/
   google-scholar: dkRSv1AAAAAJ&hl=en
   github: briandepasquale
-  address: https://goo.gl/maps/cEonsoKz8pVuq2bDA
-  phone: 617-353-2816
 ---
 
 ## Contact
 Assistant Professor, Biomedical Engineering <br />
 Boston University <br />
 (617) 353-2816 <br />
-Office: 413, 44 Cummington Mall, Boston, MA, 02215
+ERB413
+44 Cummington Mall, Boston, MA, 02215
 
 {% include section.html %}
 
