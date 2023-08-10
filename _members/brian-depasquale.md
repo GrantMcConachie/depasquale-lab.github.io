@@ -21,8 +21,7 @@ links:
 Assistant Professor, Biomedical Engineering <br />
 Boston University <br />
 (617) 353-2816 <br />
-ERB413
-44 Cummington Mall, Boston, MA, 02215
+Room 413, 44 Cummington Mall, Boston, MA, 02215
 
 {% include section.html %}
 
@@ -33,33 +32,26 @@ I am an [assistant professor](https://www.bu.edu/eng/profile/brian-depasquale-ph
 
 ## Positions and Employment 
 
-aa|bb|cc
---|--|--
-
 2023-present| Assistant Professor, Biomedical Engineering, Boston University, MA, USA
 2023-present| Faculty Member, Center for Systems Neuroscience, Boston University, Boston, MA
 2023-present| Faculty Member, Neurophotonics Center, Boston University, Boston, MA
-
-- 2023-present&emsp;Assistant Professor, Biomedical Engineering, Boston University, MA, USA
-- 2023-present&emsp;Faculty Member, Center for Systems Neuroscience, Boston University, Boston, MA
-- 2023-present&emsp;Faculty Member, Neurophotonics Center, Boston University, Boston, MA
-- 2016-2022&emsp;&emsp;&nbsp;Postdoctoral Fellow, [Princeton Neuroscience Institute](https://pni.princeton.edu/), Princeton, NJ
-- 2009-2016&emsp;&emsp;&nbsp;PhD student, [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) Columbia University, New York, NY
-- 2005-2009&emsp;&emsp;&nbsp;Research Assistant, Brain and Cognitive Sciences, MIT, Cambridge, MA
+2016-2022| Postdoctoral Fellow, [Princeton Neuroscience Institute](https://pni.princeton.edu/), Princeton, NJ
+2009-2016| PhD student, [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) Columbia University, New York, NY
+2005-2009| Research Assistant, Brain and Cognitive Sciences, MIT, Cambridge, MA
 
 ## Professional Organizations / Service 
 
-- 2012-present&emsp;Journal reviewer: Nature Machine Intelligence, NeurIPS, eLife, Neural Computation, PNAS, PLoS Computational Biology, Science Advances, ICLR, Neurons, Behavior, Data analysis and Theory, COSYNE (Conference), Computational Cognitive Neuroscience (Conference)
-- 2021, 2022&emsp;  Teaching assistant, COSYNE tutorial in computational neuroscience
-- 2019-2020&emsp;   Seminar series committee, Princeton Neuroscience Institute
-- 2017-2022&emsp;   Science writer, Simons Foundation, Collaboration on the Global Brain 
-- 2016&emsp;        COSYNE Workshop Organizer, Recurrent Spiking Neural Networks—Dynamics, Learning, Computation
+2012-present| Journal reviewer: Nature Machine Intelligence, NeurIPS, eLife, Neural Computation, PNAS, PLoS Computational Biology, Science Advances, ICLR, Neurons, Behavior, Data analysis and Theory, COSYNE (Conference), Computational Cognitive Neuroscience (Conference)
+2021, 2022| Teaching assistant, COSYNE tutorial in computational neuroscience
+2019-2020| Seminar series committee, Princeton Neuroscience Institute
+2017-2022| Science writer, Simons Foundation, Collaboration on the Global Brain 
+2016| COSYNE Workshop Organizer, Recurrent Spiking Neural Networks—Dynamics, Learning, Computation
 
 ## Honors
 
-- 2010&emsp;National Science Foundation Graduate Research Fellowship
-- 2005&emsp;Victor F. Hess Award (top Fordham U. graduating physics student)
-- 2004&emsp;National Science Foundation REU summer student (UCSD, physics)
+2010| National Science Foundation Graduate Research Fellowship
+2005| Victor F. Hess Award (top Fordham U. graduating physics student)
+2004| National Science Foundation REU summer student (UCSD, physics)
 
 {% include section.html %}
 
@@ -67,9 +59,9 @@ aa|bb|cc
 
 In addition to doing science, I sometimes write about other people’s science. Below are some examples I have contributed to the Simon's Collaboration on the Global Brain. 
 
-- A New Era for the Neuroscience of Social Behavior (news and commentary on Willmore et al Nature 2022, Pereira et al Nature Methods 2022, & Nair et al BioRxiv 2022). Simons Collaboration on the Global Brain. [link](https://www.simonsfoundation.org/2022/12/15/a-new-era-for-the-neuroscience-of-social-behavior/)
-- Searching for Shapes in Neural Activity (news and commentary on Gardner et al Nature 2022 & Nieh, Schottdorf et al Nature 2021). Simons Collaboration on the Global Brain. [link](https://www.simonsfoundation.org/2022/04/28/searching-for-shapes-in-neural-activity/)
-- Hippocampal Replay: Reflection on the Past or Planning for the Future (news and commentary on Gillespie et al Neuron 2021). Simons Collaboration on the Global Brain. [link](https://www.simonsfoundation.org/2021/11/30/hippocampal-replay-reflection-on-the-past-or-planning-for-the-future/)
-- Scoring the Brain: How Benchmark Datasets and Other Tools are Solving Key Challenges in Neuroscience. Simons Collaboration on the Global Brain. [link](https://www.simonsfoundation.org/2021/08/25/scoring-the-brain-how-benchmark-datasets-and-other-tools-are-solving-key-challenges-in-neuroscience/)
-- Geometrical Thinking Offers a Window Into Computation. (news and commentary on Bernardi, Benna et al Cell 2020 & Russo et al Neuron 2020). Simons Collaboration on the Global Brain. [link](https://www.simonsfoundation.org/2021/04/07/geometrical-thinking-offers-a-window-into-computation/)
-- In Olfactory System, a Balance of Randomness and Order. (news and commentary on Pashkovski et al Nature 2020). Simons Collaboration on the Global Brain. [link](https://www.simonsfoundation.org/2020/10/20/in-olfactory-system-a-balance-of-randomness-and-order/)
+- [A New Era for the Neuroscience of Social Behavior](https://www.simonsfoundation.org/2022/12/15/a-new-era-for-the-neuroscience-of-social-behavior/) (news and commentary on Willmore et al Nature 2022, Pereira et al Nature Methods 2022, & Nair et al BioRxiv 2022)
+- [Searching for Shapes in Neural Activity](https://www.simonsfoundation.org/2022/04/28/searching-for-shapes-in-neural-activity/)(news and commentary on Gardner et al Nature 2022 & Nieh, Schottdorf et al Nature 2021)
+- [Hippocampal Replay: Reflection on the Past or Planning for the Future](https://www.simonsfoundation.org/2021/11/30/hippocampal-replay-reflection-on-the-past-or-planning-for-the-future/) (news and commentary on Gillespie et al Neuron 2021)
+- [Scoring the Brain: How Benchmark Datasets and Other Tools are Solving Key Challenges in Neuroscience](https://www.simonsfoundation.org/2021/08/25/scoring-the-brain-how-benchmark-datasets-and-other-tools-are-solving-key-challenges-in-neuroscience/)
+- [Geometrical Thinking Offers a Window Into Computation](https://www.simonsfoundation.org/2021/04/07/geometrical-thinking-offers-a-window-into-computation/) (news and commentary on Bernardi, Benna et al Cell 2020 & Russo et al Neuron 2020)
+- [In Olfactory System, a Balance of Randomness and Order](https://www.simonsfoundation.org/2020/10/20/in-olfactory-system-a-balance-of-randomness-and-order/) (news and commentary on Pashkovski et al Nature 2020)
