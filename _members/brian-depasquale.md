@@ -33,19 +33,6 @@ I am an [assistant professor](https://www.bu.edu/eng/profile/brian-depasquale-ph
 
 ## Positions and Employment 
 
-<style>
-table {
-    border-collapse: collapse;
-}
-table, th, td {
-   border: 1px solid black;
-}
-blockquote {
-    border-left: solid blue;
-    padding-left: 10px;
-}
-</style>
-
 aa|bb|cc
 --|--|--
 ee|ff|gg 
