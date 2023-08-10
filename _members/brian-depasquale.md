@@ -26,17 +26,15 @@ Boston University <br />
 
 I conduct research in theoretical neuroscience and machine learning. My research uses mathematical models to characterize and explain how populations of neurons perform computations to produce behavior. 
 
-As of Janurary 2023, I am an [assistant professor](https://www.bu.edu/eng/profile/brian-depasquale-ph-d/) in the Department of Biomedical Engineering at Boston University where I run the Artificial and Biological Intelligence Laboratory.
-
-I conducted my postdoctoral research with [Carlos Brody](http://brodylab.org/) and [Jonathan Pillow](http://pillowlab.princeton.edu/jpillow/) at the [Princeton Neuroscience Institute](https://pni.princeton.edu/) on latent variable models of evidence accumulation from 2016 to 2022. During my Ph.D. (2009-2016) I worked with [Larry Abbott](http://www.columbia.edu/cu/neurotheory/Larry/) at [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) at Columbia University developing methods for training recurrent neural networks, and with Mark Churchland connecting these models conceptually to statistical models of low-dimensional dynamics applied to data. Before that I studied the basal ganglia in the laboratory of Ann Graybiel at MIT.
+I am an [assistant professor](https://www.bu.edu/eng/profile/brian-depasquale-ph-d/) in the Department of Biomedical Engineering at Boston University where I run the Artificial and Biological Intelligence Laboratory. I did my postdoctoral research with [Carlos Brody](http://brodylab.org/) and [Jonathan Pillow](http://pillowlab.princeton.edu/jpillow/) on latent variable models of evidence accumulation. During my Ph.D., I worked with [Larry Abbott](http://www.columbia.edu/cu/neurotheory/Larry/) developing methods for training recurrent neural networks, and with Mark Churchland connecting these models conceptually to statistical models of low-dimensional dynamics applied to data. Before that I studied the basal ganglia in the laboratory of Ann Graybiel at MIT and completed by BS in physics at Fordham University. 
 
 ## Positions and Employment 
 
 - 2023-present&emsp;Assistant Professor, Biomedical Engineering, Boston University, MA, USA
 - 2023-present&emsp;Faculty Member, Center for Systems Neuroscience, Boston University, Boston, MA
 - 2023-present&emsp;Faculty Member, Neurophotonics Center, Boston University, Boston, MA
-- 2016-2022&emsp;Postdoctoral Fellow, Princeton Neuroscience Institute, Princeton, NJ
-- 2009-2016&emsp;PhD student, Columbia University, New York, NY
+- 2016-2022&emsp;Postdoctoral Fellow, [Princeton Neuroscience Institute](https://pni.princeton.edu/), Princeton, NJ
+- 2009-2016&emsp;PhD student, [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) Columbia University, New York, NY
 - 2005-2009&emsp;Research Assistant, Brain and Cognitive Sciences, MIT, Cambridge, MA
 
 ## Professional Organizations / Service 
