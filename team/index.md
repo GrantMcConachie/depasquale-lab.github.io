@@ -24,6 +24,8 @@ nav:
 
 ## Collaborators
 
+Collaborations are central to our research. Here are some of the research groups we are currently working with. 
+
 {% capture text %}
 The <a href="https://www.youngerlaboratory.org/">Younger Lab</a> at BU studies the olfactory system of mosquitos.
 {:.center}
@@ -48,7 +50,18 @@ The <a href="https://economolab.org/">Economo Lab</a> at BU studies the neural c
   text=text
 %}
 
-- [Mark Howe](https://www.howe-lab.org/), BU
+{% capture text %}
+The <a href="https://www.howe-lab.org/">Howe Lab</a> at BU studies the role of the basal ganglia in learning.
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="https://images.squarespace-cdn.com/content/v1/5ac91e45b10598283d2083c7/1541078552001-KT1WG4TMTY6C23HLHE31/DendritesMSN.jpg?format=2500w"
+  headline="Mark Howe"
+  text=text
+%}
+
 - [Ben Scott](https://www.scottcognitionlab.com/), BU
 
 {% include section.html %}
