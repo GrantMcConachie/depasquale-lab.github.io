@@ -37,7 +37,7 @@ I am an [assistant professor](https://www.bu.edu/eng/profile/brian-depasquale-ph
 - 2023-present&emsp;Assistant Professor, Biomedical Engineering, Boston University, MA, USA
 - 2023-present&emsp;Faculty Member, Center for Systems Neuroscience, Boston University, Boston, MA
 - 2023-present&emsp;Faculty Member, Neurophotonics Center, Boston University, Boston, MA
-- 2016-2022&emsp;&nbsp;&nbsp;&nbsp;Postdoctoral Fellow, [Princeton Neuroscience Institute](https://pni.princeton.edu/), Princeton, NJ
+- 2016-2022&emsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Postdoctoral Fellow, [Princeton Neuroscience Institute](https://pni.princeton.edu/), Princeton, NJ
 - 2009-2016&emsp;   PhD student, [Center for Theoretical Neuroscience](https://ctn.zuckermaninstitute.columbia.edu/) Columbia University, New York, NY
 - 2005-2009&emsp;   Research Assistant, Brain and Cognitive Sciences, MIT, Cambridge, MA
 
