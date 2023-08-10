@@ -5,7 +5,7 @@ nav:
   tooltip: People
 ---
 
-# <i class="fas fa-users"></i>Group
+# <i class="fas fa-users"></i> Current members
 
 {%
   include list.html
