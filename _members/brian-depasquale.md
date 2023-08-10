@@ -46,10 +46,13 @@ blockquote {
 }
 </style>
 
-| -------- | ------- |
-| 2023-present| Assistant Professor, Biomedical Engineering, Boston University, MA, USA|
-| 2023-present| Faculty Member, Center for Systems Neuroscience, Boston University, Boston, MA|
-| 2023-present| Faculty Member, Neurophotonics Center, Boston University, Boston, MA|
+aa|bb|cc
+--|--|--
+ee|ff|gg 
+
+2023-present| Assistant Professor, Biomedical Engineering, Boston University, MA, USA
+2023-present| Faculty Member, Center for Systems Neuroscience, Boston University, Boston, MA
+2023-present| Faculty Member, Neurophotonics Center, Boston University, Boston, MA
 
 - 2023-present&emsp;Assistant Professor, Biomedical Engineering, Boston University, MA, USA
 - 2023-present&emsp;Faculty Member, Center for Systems Neuroscience, Boston University, Boston, MA
