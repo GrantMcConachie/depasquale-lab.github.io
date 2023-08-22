@@ -5,14 +5,19 @@ nav:
   tooltip: People
 ---
 
-# <i class="fas fa-users"></i> Current members
+# <i class=“fas fa-users”></i> About Brian
 
 {%
   include list.html
-  data="members"
-  component="portrait"
-  filters="role: pi"
+  data=“members”
+  component=“portrait”
+  filters=“role: pi”
 %}
+
+{% include section.html %}
+
+# <i class="fas fa-users"></i> Current members
+
 {%
   include list.html
   data="members"
