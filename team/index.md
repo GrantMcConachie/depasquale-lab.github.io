@@ -5,7 +5,7 @@ nav:
   tooltip: People
 ---
 
-# <i class=“fas fa-users”></i> About Brian
+# About Brian
 
 {%
   include list.html
@@ -16,7 +16,7 @@ nav:
 
 {% include section.html %}
 
-# <i class="fas fa-users"></i> Current members
+# Current members
 
 {%
   include list.html
