@@ -1,6 +1,6 @@
 ---
 name: Brian DePasquale
-image: images/pinata.jpeg
+image: images/image0.jpeg
 role: pi
 description: Assistant Professor of Biomedical Engineering
 aliases:
