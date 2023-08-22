@@ -37,7 +37,7 @@ As a postdoctoral researcher, I shifted focus to statistical models of neural dy
 
 {%
   include feature.html
-  image="images/image0.jpeg"
+  image="images/Fig2.jpeg"
   headline="Latent dynamical analysis of behavior and neural activity during sensory decision-making"
   text=text
 %}
