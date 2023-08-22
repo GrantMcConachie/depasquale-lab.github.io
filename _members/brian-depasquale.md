@@ -1,6 +1,6 @@
 ---
 name: Brian DePasquale
-image: images/image0.jpeg
+image: images/image0.jpg
 role: pi
 description: Assistant Professor of Biomedical Engineering
 aliases:
