@@ -5,7 +5,7 @@ nav:
   tooltip: People
 ---
 
-# <i class="fas fa-users"></i>Group
+# <i class="fas fa-users"></i> Current members
 
 {%
   include list.html
@@ -24,7 +24,8 @@ nav:
 
 ## Collaborators
 
-Collaborations are central to our research. Here are some of the research groups we are currently working with. 
+**<span style="color:red">Collaborations are central to our research.</span>** <span style="color:red">Here are some of the research groups we currently work with</span>
+
 
 {% capture text %}
 The <a href="https://www.youngerlaboratory.org/">Younger Lab</a> at BU studies the olfactory system of mosquitos.
@@ -62,7 +63,17 @@ The <a href="https://www.howe-lab.org/">Howe Lab</a> at BU studies the role of t
   text=text
 %}
 
-- [Ben Scott](https://www.scottcognitionlab.com/), BU
+{% capture text %}
+The <a href="https://www.scottcognitionlab.com/">Scott Lab</a> at BU studies cognition and develops new technologies to study it.
+{:.center}
+{% endcapture %}
+
+{%
+  include feature.html
+  image="https://images.squarespace-cdn.com/content/v1/5aee1aeb4611a046d4fd485c/1527460358719-L0WCSDRZMR5YBKBXT9PG/Untitled.gif?format=2500w"
+  headline="Ben Scott"
+  text=text
+%}
 
 {% include section.html %}
 
