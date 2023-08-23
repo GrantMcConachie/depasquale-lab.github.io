@@ -15,7 +15,6 @@ external:
 home-page:
   icon: fas fa-home
   text: Web
-  tooltip: Home page
   link: $LINK
 
 email:
