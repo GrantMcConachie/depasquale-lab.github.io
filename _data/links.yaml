@@ -58,14 +58,14 @@ google-scholar:
 
 github:
   icon: fab fa-github
-  text: $LINK
+  text: GitHub
   tooltip: GitHub
   link: https://github.com/$LINK
 
 twitter:
   icon: fab fa-twitter
-  text: "$LINK"
-  tooltip: $LINK
+  text: Twitter
+  tooltip: Twitter
   link: https://twitter.com/$LINK
 
 facebook:
