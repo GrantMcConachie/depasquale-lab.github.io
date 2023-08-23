@@ -7,11 +7,6 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-For a full list of publications, see [Brian's Google Scholar](https://scholar.google.com/citations?user=dkRSv1AAAAAJ&hl=en).
-{:.center}
-
-{% include section.html %}
-
 {% capture text %}
 Biological neural networks compute differently than most artificial neural networks used in machine learning. For example, although real neurons communicate with spikes, reproducing this feature in artificial models has been a challenge. We develop methods for training biophysically detailed neural networks and use thse models to understand how real biologial circuits compute. Through mathematical modeling, we focus on building tighter links between biologial neural networks and more abstract artifical neural network models used in machine learning. 
 
@@ -39,7 +34,14 @@ Neural recordings from behaving animals are often much too complex to link direc
 {%
   include feature.html
   image="images/Fig2.jpg"
-  caption="Ramping PSTHs during decision making"
+  caption="Ramping neural activity during decision-making"
   headline="Machine learning for neural data analysis"
   text=text
 %}
+
+{% include section.html %}
+
+# Publications
+
+For a full list of publications, see [Brian's Google Scholar](https://scholar.google.com/citations?user=dkRSv1AAAAAJ&hl=en).
+{:.center}
