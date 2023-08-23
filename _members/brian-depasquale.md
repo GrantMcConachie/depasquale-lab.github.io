@@ -53,9 +53,9 @@ Room 413, 44 Cummington Mall, Boston, MA, 02215
 
 I sometimes write about other people’s science. Below are some examples I have contributed to the [Simon's Collaboration on the Global Brain](https://www.simonsfoundation.org/collaborations/global-brain/). 
 
-- [A New Era for the Neuroscience of Social Behavior](https://www.simonsfoundation.org/2022/12/15/a-new-era-for-the-neuroscience-of-social-behavior/)
-- [Searching for Shapes in Neural Activity](https://www.simonsfoundation.org/2022/04/28/searching-for-shapes-in-neural-activity/)
-- [Hippocampal Replay: Reflection on the Past or Planning for the Future](https://www.simonsfoundation.org/2021/11/30/hippocampal-replay-reflection-on-the-past-or-planning-for-the-future/)
-- [Scoring the Brain: How Benchmark Datasets and Other Tools are Solving Key Challenges in Neuroscience](https://www.simonsfoundation.org/2021/08/25/scoring-the-brain-how-benchmark-datasets-and-other-tools-are-solving-key-challenges-in-neuroscience/)
-- [Geometrical Thinking Offers a Window Into Computation](https://www.simonsfoundation.org/2021/04/07/geometrical-thinking-offers-a-window-into-computation/)
-- [In Olfactory System, a Balance of Randomness and Order](https://www.simonsfoundation.org/2020/10/20/in-olfactory-system-a-balance-of-randomness-and-order/)
+* [A New Era for the Neuroscience of Social Behavior](https://www.simonsfoundation.org/2022/12/15/a-new-era-for-the-neuroscience-of-social-behavior/)
+* [Searching for Shapes in Neural Activity](https://www.simonsfoundation.org/2022/04/28/searching-for-shapes-in-neural-activity/)
+* [Hippocampal Replay: Reflection on the Past or Planning for the Future](https://www.simonsfoundation.org/2021/11/30/hippocampal-replay-reflection-on-the-past-or-planning-for-the-future/)
+* [Scoring the Brain: How Benchmark Datasets and Other Tools are Solving Key Challenges in Neuroscience](https://www.simonsfoundation.org/2021/08/25/scoring-the-brain-how-benchmark-datasets-and-other-tools-are-solving-key-challenges-in-neuroscience/)
+* [Geometrical Thinking Offers a Window Into Computation](https://www.simonsfoundation.org/2021/04/07/geometrical-thinking-offers-a-window-into-computation/)
+* [In Olfactory System, a Balance of Randomness and Order](https://www.simonsfoundation.org/2020/10/20/in-olfactory-system-a-balance-of-randomness-and-order/)
