@@ -13,3 +13,5 @@ To update your member profile, find your .md file in [`/_members`](https://githu
 [🧠 Background Knowledge](https://github.com/greenelab/lab-website-template/wiki/Background-Knowledge)
 [💡 Tips](https://github.com/greenelab/lab-website-template/wiki/Tips)
 [❓ Support](https://github.com/greenelab/lab-website-template/wiki/Support)
+
+#### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
