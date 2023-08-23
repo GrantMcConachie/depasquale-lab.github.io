@@ -21,7 +21,7 @@ Biological neural networks compute differently than most artificial neural netwo
 
 {%
   include feature.html
-  image="images/NN.jpg"
+  image="images/NNs.jpg"
   caption="Low-rank synaptic connections in a spiking neural network"
   headline="Biophysically detailed artificial neural networks"
   text=text
