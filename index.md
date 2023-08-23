@@ -50,6 +50,8 @@ Neural recordings from behaving animals are often much too complex to link direc
 
 <a href="https://github.com/briandepasquale/full-FORCE-demos">[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="50" height="50">code]</a>
 
+#### <i class="fa fa-gear fa-spin fa-2x" style="color: firebrick"></i> Configuration
+
 For a full list of publications, see [Brian's Google Scholar](https://scholar.google.com/citations?user=dkRSv1AAAAAJ&hl=en).
 {:.center}
 
