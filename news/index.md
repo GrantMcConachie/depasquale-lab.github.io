@@ -1,5 +1,4 @@
 ---
-layout: archive
 title: What's going on
 nav:
   order: 2
