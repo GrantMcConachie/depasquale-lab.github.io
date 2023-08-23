@@ -10,9 +10,9 @@ baseurl: ""
 
 # site social media and other links
 links:
-  email: bddepasqh@bu.edu
-  google-scholar: Brian DePasquale
-  github: depasquale-lab
+  #email: bddepasqh@bu.edu
+  #google-scholar: Brian DePasquale
+  #github: depasquale-lab
   #twitter: YourLabHandle
   #instagram: YourLabHandle
   #youtube: YourLabChannel
