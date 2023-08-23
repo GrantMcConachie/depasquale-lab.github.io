@@ -65,7 +65,7 @@ github:
 twitter:
   icon: fab fa-twitter
   text: $LINK
-  tooltip: Twitter
+  tooltip: $LINK
   link: https://twitter.com/$LINK
 
 facebook:
