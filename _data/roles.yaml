@@ -9,6 +9,7 @@ collaborator:
   
 phd:
   text: PhD Student
+  icon: fas fa-graduation-cap
 
 undergrad:
   icon: fas fa-user-graduate
