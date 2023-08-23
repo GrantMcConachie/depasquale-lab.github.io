@@ -5,7 +5,7 @@ nav:
   tooltip: People
 ---
 
-# <i class="fas fa-users"></i> About Brian
+# <i class="fas fa-users"></i> Brian DePasquale: Principal Investigator
 
 {%
   include list.html
@@ -36,44 +36,6 @@ nav:
   data="members"
   component="portrait"
   filters="role: collaborator"
-%}
-
-{% include section.html %}
-
-{% capture text %}
-The <a href="https://economolab.org/">Economo Lab</a> at BU studies the neural circuits of movement.
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="https://economolab.files.wordpress.com/2018/10/algorithms_circuits2.jpg?w=1290&h=548"
-  headline="Mike Economo"
-  text=text
-%}
-
-{% capture text %}
-The <a href="https://www.howe-lab.org/">Howe Lab</a> at BU studies the role of the basal ganglia in learning.
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="https://images.squarespace-cdn.com/content/v1/5ac91e45b10598283d2083c7/1541078552001-KT1WG4TMTY6C23HLHE31/DendritesMSN.jpg?format=2500w"
-  headline="Mark Howe"
-  text=text
-%}
-
-{% capture text %}
-The <a href="https://www.scottcognitionlab.com/">Scott Lab</a> at BU studies cognition and develops new technologies to study it.
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="https://images.squarespace-cdn.com/content/v1/5aee1aeb4611a046d4fd485c/1527460358719-L0WCSDRZMR5YBKBXT9PG/Untitled.gif?format=2500w"
-  headline="Ben Scott"
-  text=text
 %}
 
 {% include section.html %}
