@@ -45,7 +45,8 @@ Neural recordings from behaving animals are often much too complex to link direc
 # Other Recent Publications
 
 - Task-dependent changes in the large-scale dynamics and necessity of cortical regions [[link]](https://linkinghub.elsevier.com/retrieve/pii/S0896627319307317)
-- full-FORCE: A target-based method for training recurrent networks [[link]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0191527)[[code]](https://github.com/briandepasquale/full-FORCE-demos)
+- full-FORCE: A target-based method for training recurrent networks [[link]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0191527)
+<a href="https://github.com/briandepasquale/full-FORCE-demos" style="text-decoration: none">[<i class="fab fa-github"></i> code]</a>
 - Building functional networks of spiking model neurons [[link]](https://www.nature.com/articles/nn.4241)
 
 For a full list of publications, see [Brian's Google Scholar](https://scholar.google.com/citations?user=dkRSv1AAAAAJ&hl=en).
@@ -56,6 +57,3 @@ For a full list of publications, see [Brian's Google Scholar](https://scholar.go
 <div style="text-align: center;">
     <img src="images/BU.jpeg" >
 </div>
-
-boo
-<a href="https://github.com/cowleygroup" style="text-decoration: none"><i class="fab fa-github"></i> @cowleygroup</a>
