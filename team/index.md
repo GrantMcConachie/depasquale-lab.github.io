@@ -5,7 +5,7 @@ nav:
   tooltip: People
 ---
 
-# <i class="fas fa-users"></i> Principal Investigator
+# Principal Investigator
 
 {%
   include list.html

@@ -5,7 +5,7 @@ nav:
   tooltip: News
 ---
 
-# <i class="fas fa-tools"></i>News
+# News
 
 ## 2023
 
