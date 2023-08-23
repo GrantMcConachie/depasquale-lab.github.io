@@ -22,7 +22,9 @@
   {%- assign link = type.link | replace: "$LINK", link -%}
 
   <a class="link" href="{{ link | relative_url }}" {% if tooltip %}data-tooltip="{{ tooltip }}"{% endif %} {% if icon %}data-icon="true"{% endif %} {% if text %}data-text="true"{% endif %} data-style="{{ include.style | default: '' }}">
-    {%- if icon contains "fa-" -%}
+    {%- if text == "Google Scholar" -%}
+      <i class="ai ai-google-scholar-square ai-1.5x"></i>
+    {%- elsif icon contains "fa-" -%}
       <i class="{{ icon }} fa-lg {% if text == nil %}fa-fw{% endif %}"></i>
     {%- elsif icon -%}
       {% include {{ icon }} %}
