@@ -29,8 +29,8 @@ Biological neural networks compute differently than most artificial neural netwo
 {% include section.html %}
 
 {% capture text %}
-As a postdoctoral researcher, I shifted focus to statistical models of neural dynamics underlying decision-making. I developed comprehensive statistical models for characterizing the unobserved (‘latent’) temporal processes reflected in neural activity that underlie decisions. These models reflect a substantive improvement over prior approaches; whereas prior methods tended to either analyze neurons individually or the behavioral output of an animal in isolation, my method jointly modeled behavior and multi-neuronal responses simultaneously, thereby providing a comprehensive and statistically rigorous model of decision-making. I applied these methods to characterize the unique accumulation ‘strategy’ employed by multiple cortical and subcortical brain regions in rats performing pulsed-based evidence accumulation tasks, and found that different brain regions contributed to the overall accumulation process that drove behavior in radically different ways. The generality of my method allowed me to apply it to behavioral data collected from non-human primates and humans performing a similar task, and to extend the framework to consider how the history of animal choices in a trial-based decision-making task impacts the underlying temporal processes that determine future decisions. 
-
+Neural recordings from behaving animals are often much too complex to link directly to an animal's ongoing behavior. We develop machine learning models to analyze complex neural datasets to understand the algorithms that underlie different behaviors. We principally focus on the neural underpinnings of movement and decision making. 
+ 
 [Relevant paper: Neural population dynamics underlying evidence accumulation in multiple rat brain regions](https://www.biorxiv.org/content/10.1101/2021.10.28.465122v1)
 {:.center}
 {% endcapture %}
