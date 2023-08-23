@@ -1,6 +1,8 @@
 # [DePasquale Lab](https://depasquale-lab.github.io)
 
-## Documentation
+To update your member profile, find your .md file in `/members`
+
+## Original Documentation
 
 [▶️ Get Started](https://github.com/greenelab/lab-website-template/wiki/Get-Started)
 
