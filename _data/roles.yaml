@@ -4,6 +4,9 @@ pi:
 postdoc:
   text: Postdoctoral Researcher
 
+collaborator:
+  text: Collaborators
+  
 phd:
   text: PhD Student
 

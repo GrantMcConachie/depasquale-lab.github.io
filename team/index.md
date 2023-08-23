@@ -5,7 +5,7 @@ nav:
   tooltip: People
 ---
 
-# <i class="fas fa-users"></i> Current members
+# <i class="fas fa-users"></i> About Brian
 
 {%
   include list.html
@@ -29,8 +29,16 @@ nav:
 
 ## Collaborators
 
-**<span style="color:red">Collaborations are central to our research.</span>** <span style="color:red">Here are some of the research groups we currently work with</span>
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: collaborator"
+%}
 
+{% include section.html %}
+
+**<span style="color:red">Collaborations are central to our research.</span>** <span style="color:red">Here are some of the research groups we currently work with</span>
 
 {% capture text %}
 The <a href="https://www.youngerlaboratory.org/">Younger Lab</a> at BU studies the olfactory system of mosquitos.
