@@ -52,7 +52,8 @@ orcid:
   link: https://orcid.org/$LINK
 
 google-scholar:
-  icon: fab fa-google
+  #icon: fab fa-google
+  icon: ai ai-google-scholar-square ai-1.5x
   text: Google Scholar
   #tooltip: Google Scholar
   link: https://scholar.google.com/citations?hl=en&user=$LINK
