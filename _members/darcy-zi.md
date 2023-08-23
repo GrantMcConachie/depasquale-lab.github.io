@@ -2,7 +2,7 @@
 name: Yihan (Darcy) Zi
 image: images/darcy.jpg
 role: phd
-description:  Neuroscience (GPN) PhD student, joint with Mark Howe
+description: Neuroscience (GPN) PhD student, joint with Mark Howe
 aliases:
 links:
   email: darcyzi@bu.edu

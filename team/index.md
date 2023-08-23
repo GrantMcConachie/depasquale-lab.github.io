@@ -29,6 +29,8 @@ nav:
 
 ## Collaborators
 
+**<span style="color:red">Collaborations are central to our research.</span>** <span style="color:red">Here are some of the research groups we currently work with</span>
+
 {%
   include list.html
   data="members"
@@ -37,20 +39,6 @@ nav:
 %}
 
 {% include section.html %}
-
-**<span style="color:red">Collaborations are central to our research.</span>** <span style="color:red">Here are some of the research groups we currently work with</span>
-
-{% capture text %}
-The <a href="https://www.youngerlaboratory.org/">Younger Lab</a> at BU studies the olfactory system of mosquitos.
-{:.center}
-{% endcapture %}
-
-{%
-  include feature.html
-  image="https://images.squarespace-cdn.com/content/v1/614de94a4f15316f922c40fa/1632515659512-BOFFGN0HMEG2YYZC57C6/i-bRCrWX6-X3.jpg?format=2500w"
-  headline="Meg Younger"
-  text=text
-%}
 
 {% capture text %}
 The <a href="https://economolab.org/">Economo Lab</a> at BU studies the neural circuits of movement.
