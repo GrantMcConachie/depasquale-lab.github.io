@@ -5,7 +5,7 @@ nav:
   tooltip: People
 ---
 
-# <i class="fas fa-users"></i> Brian DePasquale : Principal Investigator
+# <i class="fas fa-users"></i> Principal Investigator
 
 {%
   include list.html
