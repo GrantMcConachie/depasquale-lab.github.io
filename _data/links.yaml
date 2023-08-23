@@ -15,24 +15,25 @@ external:
 home-page:
   icon: fas fa-home
   text: Web
+  #tooltip: Home page
   link: $LINK
 
 email:
   icon: fas fa-envelope
   text: Email
-  tooltip: Email
+  #tooltip: Email
   link: mailto:$LINK
 
 phone:
   icon: fas fa-phone
   text: Phone Number
-  tooltip: Phone number
+  #tooltip: Phone number
   link: tel:$LINK
 
 address:
   icon: fas fa-map-marked-alt
   text: Address
-  tooltip: Address
+ #tooltip: Address
   link: $LINK
 
 search:
@@ -46,25 +47,25 @@ search:
 orcid:
   icon: orcid-logo.svg
   text: ORCID
-  tooltip: ORCID
+  #tooltip: ORCID
   link: https://orcid.org/$LINK
 
 google-scholar:
   icon: fab fa-google
   text: Google Scholar
-  tooltip: Google Scholar
+  #tooltip: Google Scholar
   link: https://scholar.google.com/citations?hl=en&user=$LINK
 
 github:
   icon: fab fa-github
   text: GitHub
-  tooltip: GitHub
+  #tooltip: GitHub
   link: https://github.com/$LINK
 
 twitter:
   icon: fab fa-twitter
   text: Twitter
-  tooltip: Twitter
+  #tooltip: Twitter
   link: https://twitter.com/$LINK
 
 facebook:

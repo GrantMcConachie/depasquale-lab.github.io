@@ -29,6 +29,10 @@
     {%- endif -%}
     {%- if text == "Twitter" -%}
       <span class="truncate">@{{ include.link }}</span>
+    {%- elsif text == "GitHub"  -%}
+      <span class="truncate">@{{ include.link }}</span>
+    {%- elsif text == "Email"  -%}
+      <span class="truncate">{{ include.link }}</span>
     {%- elsif text -%}
       <span class="truncate">{{ text }}</span>
     {%- endif -%}
