@@ -53,7 +53,8 @@ orcid:
 
 google-scholar:
   #icon: fab fa-google
-  icon: <i class="ai ai-google-scholar-square ai-1.5x"></i>
+  #icon: {%- if text == "Google Scholar" -%} <i class="ai ai-google-scholar-square ai-1.5x"></i>
+  icon: ai ai-google-scholar-square ai-1.5x
   text: Google Scholar
   #tooltip: Google Scholar
   link: https://scholar.google.com/citations?hl=en&user=$LINK
