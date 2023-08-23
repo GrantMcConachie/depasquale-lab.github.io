@@ -57,6 +57,11 @@ For a full list of publications, see [Brian's Google Scholar](https://scholar.go
     <img src="images/BU.jpeg" >
 </div>
 
+<link
+  href="https://use.fontawesome.com/releases/v5.13.1/css/all.css"
+  rel="stylesheet"
+/>
+
 <div style="text-align: center;">
     <a href="https://github.com/cowleygroup"><i class="fas fa-github"></i> @cowleygroup</a>
 </div>
