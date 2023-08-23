@@ -56,3 +56,7 @@ For a full list of publications, see [Brian's Google Scholar](https://scholar.go
 <div style="text-align: center;">
     <img src="images/BU.jpeg" >
 </div>
+
+<div style="text-align: center;">
+    <a href="https://github.com/cowleygroup" target="_blank"><i class="fa fa-github"></i> @cowleygroup</a>
+</div>
