@@ -21,8 +21,8 @@ Biological neural networks compute differently than most artificial neural netwo
 
 {%
   include feature.html
-  image="https://ars.els-cdn.com/content/image/1-s2.0-S0896627322010807-gr1_lrg.jpg"
-  caption="blah blah"
+  image="images/NN.jpg"
+  caption="Low-rank synaptic connections in a spiking neural network"
   headline="Biophysically detailed artificial neural networks"
   text=text
 %}
@@ -39,6 +39,7 @@ Neural recordings from behaving animals are often much too complex to link direc
 {%
   include feature.html
   image="images/Fig2.jpg"
+  caption="Ramping PSTHs during decision making"
   headline="Machine learning for neural data analysis"
   text=text
 %}
