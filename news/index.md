@@ -2,11 +2,10 @@
 title: What's going on
 nav:
   order: 2
-  tooltip: News
 ---
 
-# News
-
+News
+======
 ## 2023
 
 * August: [Darcy](https://depasquale-lab.github.io/members/darcy-zi.html) was awarded a T32 JSTPN Early Stage Training in Neuroscience Award from GPN. Congratulations Darcy!
