@@ -25,9 +25,9 @@
     {%- if text == "Google Scholar" -%}
       <i class="ai ai-google-scholar-square ai-3.5x"></i>
     {%- elsif icon contains "fa-" -%}
-      <i class="{{ icon }} fa-lg {% if text == nil %}fa-fw{% endif %}"></i>
+      <i class="{{icon}} fa-lg {% if text == nil %}fa-fw{% endif %}"></i>
     {%- elsif icon -%}
-      {% include {{ icon }} %}
+      {% include {{icon}} %}
     {%- endif -%}
     {%- if text == "Twitter" -%}
       <span class="truncate">@{{include.link}}</span>
