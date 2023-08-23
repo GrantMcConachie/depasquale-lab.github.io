@@ -27,11 +27,10 @@
     {%- elsif icon -%}
       {% include {{ icon }} %}
     {%- endif -%}
-    {%- if text -%}
-      <span class="truncate">{{ text }}</span>
-    {%- endif -%}
     {%- if text == "Twitter" -%}
       <span class="truncate">{{ include.link }}</span>
+    {%- elsif text -%}
+      <span class="truncate">{{ text }}</span>
     {%- endif -%}
   </a>
 {%- endif -%}
