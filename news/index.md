@@ -1,12 +1,12 @@
 ---
+layout: archive
 title: What's going on
 nav:
   order: 2
 ---
 
-News
+2023
 ======
-## 2023
 
 * August: [Darcy](https://depasquale-lab.github.io/members/darcy-zi.html) was awarded a T32 JSTPN Early Stage Training in Neuroscience Award from GPN. Congratulations Darcy!
 * July: Brian gives a talk at the OCNS workshop on [low-dimensional manifolds](https://cns2023.sched.com/event/1Kd7M/low-dimensional-manifolds-of-neural-dynamics-and-their-role-in-brain-function). 
