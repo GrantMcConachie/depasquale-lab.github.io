@@ -48,8 +48,7 @@ Neural recordings from behaving animals are often much too complex to link direc
 - full-FORCE: A target-based method for training recurrent networks [[link]](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0191527)<a href="https://github.com/briandepasquale/full-FORCE-demos">[<i class="fa fa-github" aria-hidden="true"></i>code]</a>
 - Building functional networks of spiking model neurons [[link]](https://www.nature.com/articles/nn.4241)
 
-<a href="https://github.com/briandepasquale/full-FORCE-demos">[<i class="fa fa-github" aria-hidden="true"></i>code]</a>
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="50" height="50">
+<a href="https://github.com/briandepasquale/full-FORCE-demos">[<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg" width="50" height="50">code]</a>
 
 For a full list of publications, see [Brian's Google Scholar](https://scholar.google.com/citations?user=dkRSv1AAAAAJ&hl=en).
 {:.center}
