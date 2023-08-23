@@ -2,7 +2,6 @@
 title: Who we are
 nav:
   order: 1
-  tooltip: People
 ---
 
 # Principal Investigator
