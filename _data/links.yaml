@@ -13,7 +13,8 @@ external:
   link: $LINK
 
 home-page:
-  icon: fas fa-home
+  #icon: fas fa-home
+  icon: fas fa-network-wired
   text: Web
   #tooltip: Home page
   link: $LINK
