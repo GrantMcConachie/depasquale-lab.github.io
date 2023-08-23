@@ -7,4 +7,4 @@ links:
   home-page: https://www.howe-lab.org/
 ---
 
-Led by PI Mark Howe, the Howe Lab studies the role of the basal ganglia in learning.
+Tthe Howe Lab studies the role of the basal ganglia in learning.

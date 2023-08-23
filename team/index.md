@@ -5,7 +5,7 @@ nav:
   tooltip: People
 ---
 
-# <i class="fas fa-users"></i> Brian DePasquale: Principal Investigator
+# <i class="fas fa-users"></i> Brian DePasquale : Principal Investigator
 
 {%
   include list.html
@@ -13,6 +13,13 @@ nav:
   component="portrait"
   filters="role: pi"
 %}
+
+Assistant Professor, Biomedical Engineering <br />
+Boston University <br />
+(617) 353-2816 <br />
+Room 413, 44 Cummington Mall, Boston, MA, 02215
+
+I am an [assistant professor](https://www.bu.edu/eng/profile/brian-depasquale-ph-d/) in the Department of Biomedical Engineering at Boston University where I run the Artificial and Biological Intelligence Laboratory. I did my postdoctoral research with [Carlos Brody](http://brodylab.org/) and [Jonathan Pillow](http://pillowlab.princeton.edu/jpillow/) on latent variable models of evidence accumulation. During my Ph.D., I worked with [Larry Abbott](http://www.columbia.edu/cu/neurotheory/Larry/) developing methods for training recurrent neural networks, and with Mark Churchland connecting these models conceptually to statistical models of low-dimensional dynamics applied to data. Before that I studied the basal ganglia in the laboratory of Ann Graybiel at MIT and completed by BS in physics at Fordham University. 
 
 {% include section.html %}
 
@@ -29,7 +36,7 @@ nav:
 
 ## Collaborators
 
-**<span style="color:red">Collaborations are central to our research.</span>** <span style="color:red">Here are some of the research groups we currently work with</span>
+Collaborations are central to our research. Here are some of the research groups we currently work with.
 
 {%
   include list.html

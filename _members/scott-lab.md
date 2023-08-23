@@ -7,4 +7,4 @@ links:
   home-page: https://www.scottcognitionlab.com/
 ---
 
-Led by PI Ben Scott, the Scott Lab studies cognition and develops new technologies to study it.
+The Scott Lab studies cognition and develops new technologies to study it.

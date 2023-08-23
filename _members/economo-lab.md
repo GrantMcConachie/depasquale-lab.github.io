@@ -7,4 +7,4 @@ links:
   home-page: https://economolab.org/
 ---
 
-Led by PI Mike Economo, the Economo Lab studies the neural circuits of movement.
+The Economo Lab studies the neural circuits of movement.

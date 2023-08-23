@@ -7,4 +7,4 @@ links:
   home-page: https://www.youngerlaboratory.org/
 ---
 
-Led by PI Meg Younger, the Younger Lab studies the olfactory system of mosquitos.
+The Younger Lab studies the olfactory system of mosquitos.
