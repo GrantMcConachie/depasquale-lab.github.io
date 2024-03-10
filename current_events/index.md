@@ -9,11 +9,6 @@ Lab Meeting and Journal Club
 2024
 ======
 
-* 02/2024: Grant presenting at Cosyne 2024 in Lisbon
-
-<div style="text-align: center;">
-  <img src="/images/IMG_4208.jpg" width="500">
-</div>
 
 2023
 ======

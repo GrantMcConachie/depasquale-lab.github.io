@@ -6,7 +6,12 @@ nav:
 
 2024
 ======
-* Feburary: [Grant](https://depasquale-lab.github.io/members/Grant-Mcconachie.html) presents his work on GNNs for the olfactory system at Cosyne! Aweomse job grant!
+
+* Feburary: [Grant](https://depasquale-lab.github.io/members/Grant-Mcconachie.html) presenting at Cosyne 2024 in Lisbon! Aweomse job grant!
+
+<div style="text-align: center;">
+  <img src="/images/IMG_4208.jpg" width="500">
+</div>
 
 2023
 ======
