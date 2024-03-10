@@ -17,7 +17,7 @@ I am an [assistant professor](https://www.bu.edu/eng/profile/brian-depasquale-ph
 
 {% include section.html %}
 
-# Current members
+# Members
 
 {%
   include list.html
