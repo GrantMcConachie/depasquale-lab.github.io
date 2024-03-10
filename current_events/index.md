@@ -1,7 +1,7 @@
 ---
 title: Lab meeting and lab fun
 nav:
-  order: 3
+  order: 4
 ---
 Lab Meeting and Journal Club
 ======

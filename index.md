@@ -1,5 +1,7 @@
 ---
-title: Home
+title: Research
+nav:
+  order: 1
 ---
 
 # Artificial and Biological Intelligence Laboratory at Boston University
