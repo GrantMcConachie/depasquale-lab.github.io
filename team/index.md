@@ -1,5 +1,5 @@
 ---
-title: Who we are
+title: People
 nav:
   order: 1
 ---

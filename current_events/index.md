@@ -6,6 +6,8 @@ nav:
 Lab Meeting and Journal Club
 ======
 
+* 02/2024: [*Grant presenting at Cosyne 2024 in Lisbon*](/images/IMG_4208.jpg)
+
 * 08/08/2023: [*The role of astrocytes in place cell formation: A computational modeling study*](https://link.springer.com/article/10.1007/s10827-022-00828-6)
 
 * 09/18/2023: [*Evolving the olfactory system with machine learning*](https://www.sciencedirect.com/science/article/pii/S0896627321006826?via%3Dihub)

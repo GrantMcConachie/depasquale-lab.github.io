@@ -8,7 +8,7 @@ The DePasquale lab is located in the [Department of Biomedical Engineering](http
 
 {% include section.html %}
 
-# Research Areas
+# Research
 
 {% capture text %}
 Biological neural networks compute differently than most artificial neural networks used in machine learning. For example, although real neurons communicate with spikes, reproducing this feature in artificial models has been a challenge. We develop methods for training biophysically detailed neural networks and use thse models to understand how real biologial circuits compute. Through mathematical modeling, we focus on building tighter links between biologial neural networks and more abstract artifical neural network models used in machine learning. 

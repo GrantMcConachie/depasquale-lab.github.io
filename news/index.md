@@ -1,8 +1,12 @@
 ---
-title: What's going on
+title: News
 nav:
   order: 2
 ---
+
+2024
+======
+* Feburary: [Grant](https://depasquale-lab.github.io/members/Grant-Mcconachie.html) presents his work on GNNs for the olfactory system at Cosyne! Aweomse job grant!
 
 2023
 ======
