@@ -7,7 +7,7 @@ nav:
 2024
 ======
 
-* Feburary: [Grant](https://depasquale-lab.github.io/members/Grant-Mcconachie.html) presenting at Cosyne 2024 in Lisbon! Aweomse job grant!
+* Feburary: [Grant](https://depasquale-lab.github.io/members/Grant-Mcconachie.html) presenting his [poster](/images/Poster_draft_2.pdf) at Cosyne 2024 in Lisbon! Aweomse job grant!
 
 <div style="text-align: center;">
   <img src="/images/IMG_4208.jpg" width="500">
