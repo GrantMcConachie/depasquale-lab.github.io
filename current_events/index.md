@@ -1,5 +1,5 @@
 ---
-title: What we're thinking about
+title: Lab meeting and lab fun
 nav:
   order: 3
 ---
@@ -14,7 +14,7 @@ Lab Meeting and Journal Club
 
 * 09/29/2023: The first official DePasquale lab meeting! Ryan discussed his prior work in Dr. Steve Ramirez's lab looking at the role of astrocytes in fear learning. Great job Ryan!
 
-<img src="/images/depaq_jclub_ryan.jpg" width="200">
+<img src="/images/depaq_jclub_ryan.jpg" width="500">
 
 * 10/06/2023: Ryan finished presentation on the role of astrocytes in fear learning.
 
