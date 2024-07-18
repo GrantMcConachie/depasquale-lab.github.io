@@ -6,9 +6,19 @@ nav:
 Lab Meeting and Journal Club
 ======
 
+Current lab meeting schedule
+======
+
+- July 24, Tushar, [SVAEs](https://arxiv.org/abs/2008.12595), CDS 1224. 
+- July 31, Ryan, [Infinite recurrent sLDSs](https://openreview.net/forum?id=YIls9HEa52)
+- Aug 7, Halley, [Keypoint MoSeq](https://www.biorxiv.org/content/10.1101/2023.03.16.532307v3)
+
+
 2024
 ======
 
+- Summer: Carson and Emily start in the lab for the summer!
+- May: Omar, Halley, Tushar, and Zach join the lab!
 
 2023
 ======
