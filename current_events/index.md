@@ -10,8 +10,8 @@ Current lab meeting schedule
 ======
 
 - July 31, Tushar, [SVAEs](https://arxiv.org/abs/2008.12595), CDS 1224. 
-- Aug 14, Ryan, [Infinite recurrent sLDSs](https://openreview.net/forum?id=YIls9HEa52)
 - Aug 7, Halley, [Keypoint MoSeq](https://www.biorxiv.org/content/10.1101/2023.03.16.532307v3)
+- Aug 14, Ryan, [Infinite recurrent sLDSs](https://openreview.net/forum?id=YIls9HEa52)
 - Aug 21, Grant, [GNNs for learning dynamics](https://arxiv.org/abs/2407.19160)
 
 2024
