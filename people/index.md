@@ -28,6 +28,19 @@ I am an [assistant professor](https://www.bu.edu/eng/profile/brian-depasquale-ph
 
 {% include section.html %}
 
+## Survivors
+
+Those who have sucessfully managed Brian's terrible, terrible personality.
+
+{%
+  include list.html
+  data="members"
+  component="portrait"
+  filters="role: survivor"
+%}
+
+{% include section.html %}
+
 ## Collaborators
 
 Collaborations are central to our research. Here are some of the groups we currently work with.
